@@ -12,7 +12,7 @@ kernelspec:
 
 # 🏆Selbsttest: Wissen und Praxis
 
-````{admonition} Hinweis
+````{admonition} Hinweise
 :class: hinweis
 Diese Übungsaufgaben dienen Ihrer Selbsteinschätzung und helfen Ihnen, das im Kapitel Gelernte zu reflektieren.
 
@@ -27,7 +27,7 @@ Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses 
 
 **Geschätzte Zeit**: 1h
 
-Viel Erfolg!
+**Viel Erfolg!**
 ````
 
 ## Frage 1
