@@ -24,7 +24,7 @@ Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
 2. Der Operationalisierungsprozess kann am Beispiel der Spanischen Grippe nachvollzogen und auf andere Forschungsfragen übertragen werden.
 ```
 
-Dieses Kapitel bildet den Auftakt der Fallstudie und dient der Klärung des Erkenntnisinteresses, das die dann folgende Vorbereitung und Aufbereitung des Forschungsgegenstands (Korpus) und schließlich die Analyse leitet. 
+In diesem Kapitel wird das Erkenntnisinteresse definiert, das die folgenden Schritte – Vorbereitung, Aufbereitung des Korpus und Analyse – steuert.
 
 ```{figure} ../assets/images/flow-chart_research-question.png
 ---
@@ -34,7 +34,7 @@ name: Flussdiagramm der Fallstudie
 Flussdiagramm der Fallstudie. Wir befinden uns im ersten Arbeitspaket.
 ```
 
-In einem ersten Schritt wird in diesem Kapitel zunächst die Forschungsfrage formuliert und expliziert. Die im anschließenden Schritt erfolgende Operationalisierung ist ein für Digital Humanities-Projekte entscheidender Vorgang, werden in solchen Projekten doch häufig quantitative Methoden für die Beantwortung traditionell qualitativer Fragestellungen angewendet. Die Brücke "from numbers to meaning" {cite:p}`heuser_learning_2011` baut dabei die Operationalisierung. 
+In einem ersten Schritt wird in diesem Kapitel zunächst die Forschungsfrage formuliert und expliziert. Im nächsten Schritt erfolgt die Operationalisierung, ein zentraler Vorgang in Digital Humanities-Projekten. Dabei kommen häufig quantitative Methoden zum Einsatz, um traditionell qualitative Fragestellungen zu bearbeiten. Die Brücke "from numbers to meaning" {cite:p}`heuser_learning_2011` baut dabei die Operationalisierung. 
 
 
 
