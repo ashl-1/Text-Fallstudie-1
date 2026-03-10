@@ -37,7 +37,7 @@ Skorinkin, D., Sluyter-Gäthje, H. & Trilcke, P. (2024). _Quantitative Analyse d
 
 3. Die grundlegenden Metadatenschemata (Dublin Core, TEI, MODS, METS) und deren charakteristische Elemente für Korpora und Einzeldokumente können beschrieben werden.
 
-4. Der schrittweise Prozess des praktischen Korpusaufbaus (Konzeptentwicklung, Metadatenerstellung und Datensammlung) kann am Beispiel eines Zeitungskorpus beschrieben werde
+4. Der schrittweise Prozess des praktischen Korpusaufbaus (Konzeptentwicklung, Metadatenerstellung und Datensammlung) kann am Beispiel eines Zeitungskorpus beschrieben werden.
 ```
 
 
@@ -56,6 +56,6 @@ In diesem Kapitel nehmen wir zunächst eine [Sicherung des Begriffsverständniss
 
 In einem anschließenden Schritt betrachten wir [unterschiedliche Erscheinungsformen von "Text"](corpus-collection_text_as_digital_objects) im digitalen Raum. Dabei lernen wir unterschiedliche Formate wie pdf, txt, xml oder csv und deren Vor- und Nachteile kennen.
 
-Um ein Korpus und seine Elememte zu beschreiben, bedarf es [Metadaten](corpus-collection_metadata). Wir werden uns entsprechend in einem folgenden Schritt rudimentär mit dem Konzept von Metadaten befassen und ein basales Metadaten-Schema für unser Korpus und für die Elemete in unserem Korpus entwickeln.
+Um ein Korpus und seine Elemente zu beschreiben, bedarf es [Metadaten](corpus-collection_metadata). Wir werden uns entsprechend in einem folgenden Schritt rudimentär mit dem Konzept von Metadaten befassen und ein basales Metadaten-Schema für unser Korpus und für die Elemete in unserem Korpus entwickeln.
 
 In einem abschließenden Schritt geht es dann um den [Aufbau des Forschungskorpus](corpus-collection_building-our-corpus) für die folgenden Untersuchungen: Wir definieren zunächst, welche Objekte ins Korpus aufgenommen werden sollen, erarbeiten dann die Metadaten für die Korpusobjekte und laden schließlich die Dateien für das Korpus herunter. 
